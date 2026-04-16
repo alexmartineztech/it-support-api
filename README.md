@@ -1,4 +1,4 @@
-# IT Support API
+# IT Support & Ticketing API (FastAPI)
 
 ## 🚀 Overview
 A simple REST API simulating IT Support operations such as user management, ticket handling, and system health monitoring.

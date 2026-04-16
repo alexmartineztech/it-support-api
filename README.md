@@ -18,3 +18,9 @@ A simple REST API simulating IT Support operations such as user management, tick
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+## ▶️ Quick Start (2 min)
+
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload

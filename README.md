@@ -13,6 +13,15 @@ A simple REST API simulating IT Support operations such as user management, tick
 - Create and track support tickets
 - Health check endpoint
 
+  ## 🔗 Real-World Context
+
+This project reflects tasks performed in enterprise environments using tools like:
+- Microsoft Intune
+- Active Directory
+- ServiceNow
+
+It simulates how support engineers interact with backend systems and automate workflows.
+
 ## ▶️ Run the project
 
 ```bash
